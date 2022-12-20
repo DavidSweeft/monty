@@ -1,2 +1,1 @@
-# monty
-monty projects repository
+0x19. C - Stacks, Queues - LIFO, FIFO
